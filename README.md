@@ -7,10 +7,15 @@ We propose creating software to match a handwriting sample for its author given 
 
 # Requirements
 Python 3.6.X
+
 Tensorflow
+
 Keras
+
 Sci-kit Learn
+
 matplotlib
+
 glob
 
 # Installation Intstructions
